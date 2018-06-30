@@ -1,0 +1,8 @@
+*.exe
+*.exe~
+*.go_
+*.csv
+*.html
+*.jar
+*.txt
+tmp
